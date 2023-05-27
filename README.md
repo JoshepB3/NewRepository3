@@ -1,7 +1,7 @@
 # Repository 💚
 There are the following projects:
 
-* Prediction of the **"winning team of the Qatar 2022 World Cup"**. It has been developed in 4 notebooks: 
+* **"Prediction of the winning team of the Qatar 2022 World Cup"**. It has been developed in 4 notebooks: 
 [Notebook1](https://github.com/JoshepB3/NewRepository3/blob/main/1_2022_WC_Qatar_Data_collection.ipynb) | 
 [Notebook2](https://github.com/JoshepB3/NewRepository3/blob/main/2_2022_WC_Qatar_Data_collection.ipynb) | 
 [Notebook3](https://github.com/JoshepB3/NewRepository3/blob/main/3_2022_WC_Qatar_Data_cleaning.ipynb) | 
